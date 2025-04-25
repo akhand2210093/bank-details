@@ -25,7 +25,11 @@ SECRET_KEY = 'django-insecure-2nzu^@m4js!re#67w8tdq)379)9)w-@tq$r8#7poej-umpy^=h
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    '127.0.0.1',  # For local development
+    'localhost',  # For local development
+    'bank-details-sqtf.onrender.com',  # Your Render domain
+]
 
 
 # Application definition
