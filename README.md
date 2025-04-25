@@ -16,7 +16,7 @@ This is a simple Django-based API that provides information about banks and thei
 ## Endpoints
 
 ### 1. List All Banks
-**URL:** `/api/banks/`  
+**URL:** `/banks/`  
 **Method:** `GET`  
 **Response Example:**
 ```json
@@ -33,7 +33,7 @@ This is a simple Django-based API that provides information about banks and thei
 ```
 
 ### 2. Get Branch Details by IFSC
-**URL:** `/api/branches/<ifsc>/`  
+**URL:** `/branches/<ifsc>/`  
 **Method:** `GET`  
 **Response Example:**
 ```json
