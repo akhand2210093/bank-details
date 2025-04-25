@@ -1,6 +1,6 @@
 # Bank and Branch API
 
-This is a simple Django-based API that provides information about banks and their branches.
+This is a simple Django-based API that provides information about banks and their branches. Time taken to complete : 3 days
 
 ## Deployed Application
 
