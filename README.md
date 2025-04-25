@@ -6,7 +6,7 @@ This is a simple Django-based API that provides information about banks and thei
 
 The application is live and hosted on Render. You can access it here:
 
-[Bank Details API on Render](https://bank-details-sqtf.onrender.com)
+[Bank Details API on Render](https://bank-details-sqtf.onrender.com)  {bank-details-sqtf.onrender.com}
 
 ---
 
