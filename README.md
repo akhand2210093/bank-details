@@ -2,7 +2,11 @@
 
 This is a simple Django-based API that provides information about banks and their branches.
 
-![Bank and Branch API](images/sample-image.png)
+## Deployed Application
+
+The application is live and hosted on Render. You can access it here:
+
+[Bank Details API on Render](https://bank-details-sqtf.onrender.com)
 
 ---
 
